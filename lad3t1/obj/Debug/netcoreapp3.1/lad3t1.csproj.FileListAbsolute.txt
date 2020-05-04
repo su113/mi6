@@ -1,0 +1,13 @@
+/home/user/Documents/lad3t1/bin/Debug/netcoreapp3.1/lad3t1
+/home/user/Documents/lad3t1/bin/Debug/netcoreapp3.1/lad3t1.deps.json
+/home/user/Documents/lad3t1/bin/Debug/netcoreapp3.1/lad3t1.runtimeconfig.json
+/home/user/Documents/lad3t1/bin/Debug/netcoreapp3.1/lad3t1.runtimeconfig.dev.json
+/home/user/Documents/lad3t1/bin/Debug/netcoreapp3.1/lad3t1.dll
+/home/user/Documents/lad3t1/bin/Debug/netcoreapp3.1/lad3t1.pdb
+/home/user/Documents/lad3t1/obj/Debug/netcoreapp3.1/lad3t1.csprojAssemblyReference.cache
+/home/user/Documents/lad3t1/obj/Debug/netcoreapp3.1/lad3t1.csproj.CoreCompileInputs.cache
+/home/user/Documents/lad3t1/obj/Debug/netcoreapp3.1/lad3t1.AssemblyInfoInputs.cache
+/home/user/Documents/lad3t1/obj/Debug/netcoreapp3.1/lad3t1.AssemblyInfo.cs
+/home/user/Documents/lad3t1/obj/Debug/netcoreapp3.1/lad3t1.dll
+/home/user/Documents/lad3t1/obj/Debug/netcoreapp3.1/lad3t1.pdb
+/home/user/Documents/lad3t1/obj/Debug/netcoreapp3.1/lad3t1.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+/home/user/Documents/lab3t2/bin/Debug/netcoreapp3.1/lab3t2
+/home/user/Documents/lab3t2/bin/Debug/netcoreapp3.1/lab3t2.deps.json
+/home/user/Documents/lab3t2/bin/Debug/netcoreapp3.1/lab3t2.runtimeconfig.json
+/home/user/Documents/lab3t2/bin/Debug/netcoreapp3.1/lab3t2.runtimeconfig.dev.json
+/home/user/Documents/lab3t2/bin/Debug/netcoreapp3.1/lab3t2.dll
+/home/user/Documents/lab3t2/bin/Debug/netcoreapp3.1/lab3t2.pdb
+/home/user/Documents/lab3t2/obj/Debug/netcoreapp3.1/lab3t2.csprojAssemblyReference.cache
+/home/user/Documents/lab3t2/obj/Debug/netcoreapp3.1/lab3t2.csproj.CoreCompileInputs.cache
+/home/user/Documents/lab3t2/obj/Debug/netcoreapp3.1/lab3t2.AssemblyInfoInputs.cache
+/home/user/Documents/lab3t2/obj/Debug/netcoreapp3.1/lab3t2.AssemblyInfo.cs
+/home/user/Documents/lab3t2/obj/Debug/netcoreapp3.1/lab3t2.dll
+/home/user/Documents/lab3t2/obj/Debug/netcoreapp3.1/lab3t2.pdb
+/home/user/Documents/lab3t2/obj/Debug/netcoreapp3.1/lab3t2.genruntimeconfig.cache
