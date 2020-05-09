@@ -1,0 +1,13 @@
+/home/user/Documents/lab4t3/bin/Debug/netcoreapp3.1/lab4t3
+/home/user/Documents/lab4t3/bin/Debug/netcoreapp3.1/lab4t3.deps.json
+/home/user/Documents/lab4t3/bin/Debug/netcoreapp3.1/lab4t3.runtimeconfig.json
+/home/user/Documents/lab4t3/bin/Debug/netcoreapp3.1/lab4t3.runtimeconfig.dev.json
+/home/user/Documents/lab4t3/bin/Debug/netcoreapp3.1/lab4t3.dll
+/home/user/Documents/lab4t3/bin/Debug/netcoreapp3.1/lab4t3.pdb
+/home/user/Documents/lab4t3/obj/Debug/netcoreapp3.1/lab4t3.csprojAssemblyReference.cache
+/home/user/Documents/lab4t3/obj/Debug/netcoreapp3.1/lab4t3.csproj.CoreCompileInputs.cache
+/home/user/Documents/lab4t3/obj/Debug/netcoreapp3.1/lab4t3.AssemblyInfoInputs.cache
+/home/user/Documents/lab4t3/obj/Debug/netcoreapp3.1/lab4t3.AssemblyInfo.cs
+/home/user/Documents/lab4t3/obj/Debug/netcoreapp3.1/lab4t3.dll
+/home/user/Documents/lab4t3/obj/Debug/netcoreapp3.1/lab4t3.pdb
+/home/user/Documents/lab4t3/obj/Debug/netcoreapp3.1/lab4t3.genruntimeconfig.cache

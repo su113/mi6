@@ -16,3 +16,7 @@ script:
   - dotnet build ./lad3t1
   - dotnet build ./lab3t2
   - dotnet build ./lab3t3
+  - dotnet build ./lab4t1
+  - dotnet test ./lab4t1
+  - dotnet build ./lab4t2
+  - dotnet build ./lab4t3 
