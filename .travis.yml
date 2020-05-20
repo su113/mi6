@@ -19,4 +19,6 @@ script:
   - dotnet build ./lab4t1
   - dotnet test ./lab4t1
   - dotnet build ./lab4t2
-  - dotnet build ./lab4t3 
+  - dotnet build ./lab4t3
+  - dotnet build ./lab5t1
+
